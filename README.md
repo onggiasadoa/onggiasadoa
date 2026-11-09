@@ -10,13 +10,6 @@
 
 Biodiversity and genomic data platform connecting standardized specimen data with **BOLD, Epicollect, and iNaturalist**.
 
-### **⚙️ Automation & Tooling**
-
-* **User Guide Workflow** — Claude automation for generating user guides from released features
-* **Wiki Update Workflow** — Keeps product wiki pages updated from live Azure DevOps data
-* **Miro → Azure DevOps** — n8n workflow connecting planning boards with work items
-* **Recurly → Slack** — Automated subscription notifications
-
 ---
 
 ## 🚀 Side Projects
@@ -40,6 +33,12 @@ Voucher and deal data collection and operations.
 **VNG · Game Publishing**
 Localization, build QA, monetization events, and launch operations.
 
+### **⚙️ Automation & Tooling**
+
+* **User Guide Workflow** — Claude automation for generating user guides from released features
+* **Wiki Update Workflow** — Keeps product wiki pages updated from live Azure DevOps data
+* **Miro → Azure DevOps** — n8n workflow connecting planning boards with work items
+* **Recurly → Slack** — Automated subscription notifications
 ---
 
 ## 🧰 Stack
