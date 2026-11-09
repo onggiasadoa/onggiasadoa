@@ -2,22 +2,20 @@
 
 📍 **Ho Chi Minh City** · Business Analyst @ Life Science Platform · Product @ Katalon, AvePoint, ShopBack & VNG · MBA
 
----
+
 
 ## 🔭 What I’m Working On
 
-### **CGMB**
+### **Can Gio Mangrove Barcoding**
 
 Biodiversity and genomic data platform connecting standardized specimen data with **BOLD, Epicollect, and iNaturalist**.
 
----
 
 ## 🚀 Side Projects
 
 * **DI Hedge Calculator** — Dual Investment payoff, P&L, and hedge-switch simulation
 * **[Travel Guide Portfolio](https://benluutravel.com/)** — Travel memories and tour guide experience
 
----
 
 ## 💼 Where I’ve Been
 
@@ -33,13 +31,14 @@ Voucher and deal data collection and operations.
 **VNG · Game Publishing**
 Localization, build QA, monetization events, and launch operations.
 
+
 ### **⚙️ Automation & Tooling**
 
 * **User Guide Workflow** — Claude automation for generating user guides from released features
 * **Wiki Update Workflow** — Keeps product wiki pages updated from live Azure DevOps data
 * **Miro → Azure DevOps** — n8n workflow connecting planning boards with work items
 * **Recurly → Slack** — Automated subscription notifications
----
+
 
 ## 🧰 Stack
 
@@ -47,7 +46,6 @@ Localization, build QA, monetization events, and launch operations.
 
 > ...and anything needed to get the job done.
 
----
 
 ## 🧭 Background
 
